@@ -1,2 +1,2 @@
 Prueba REACT para Coderhouse
-Realiada por Matías Coleman
+Realizado por Matías Coleman
