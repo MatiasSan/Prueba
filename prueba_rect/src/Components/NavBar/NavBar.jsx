@@ -8,7 +8,7 @@ function NavBar() {
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
         <Navbar.Brand href="#home">
-          <img src="./images/drip.png" alt="" width="60px" />
+          <img src="./images/drip.png" alt="" width="55px" />
         </Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link className="link" href="#home">
